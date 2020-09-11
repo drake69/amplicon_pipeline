@@ -1,1 +1,1 @@
-# amplicon_pipeline
+This pipeline uses an output folder in which previous annotated and commented results are stored, collect all information available, calculates and updates frequency data for each genetic variant and import these information in a new vcf file. This pipeline can be found here.
